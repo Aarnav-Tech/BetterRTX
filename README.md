@@ -35,7 +35,7 @@ cd BetterRTX
    
 3.  I recommend local install as the one online the links are broken and doesnt work sometimes.
 
-4. Run Powershell as Administrator and paste:
+4. Run Powershell (in the same directory as your script) as Administrator and paste:
 ```bash
 Set-ExecutionPolicy -Scope CurrentUser Bypass
 .\BetterRTX_Installer_MGCEdit.ps1
