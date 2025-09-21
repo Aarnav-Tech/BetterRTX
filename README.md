@@ -1,4 +1,4 @@
-# BetterRTX for Minecraft Bedrock 1.21+
+# BetterRTX for Minecraft Bedrock 1.21+ (WINDOWS ONLY)
 
 **BetterRTX** is a modified RTX shader pack for Minecraft Bedrock Edition.  
 This repository provides the **English-translated installer script** and instructions for users who can’t access the original [Chinese site](https://www.minegraph.cn/be/shaderpacks/65).
